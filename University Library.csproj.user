@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\abdelrahman\source\repos\University Library\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BrowseLib.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MngItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MngAuthors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="remove_usr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="yourlibrary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
